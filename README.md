@@ -31,3 +31,4 @@ If you want to terminate instances and destroy the configuration you may call:
 ```
 terraform destroy
 ```
+test
